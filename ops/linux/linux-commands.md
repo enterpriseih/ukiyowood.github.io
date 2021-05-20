@@ -1,7 +1,5 @@
 # Linux常用命令
 
-[TOC]
-
 ## 系统服务
 ```bash
 systemctl list-units --all --type=service    # 列出当前所有的系统服务和状态
