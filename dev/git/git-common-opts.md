@@ -8,6 +8,9 @@ $ git config --global user.email test@runoob.com #
 
 $ git config --global credential.helper store  # 保存git配置，解决每次push都要输入用户名和密码的问题
 
+git config --global http.proxy 'socks5://127.0.0.1:1080'
+git config --global https.proxy 'socks5://127.0.0.1:1080'
+
 $ git config --list           # 查看配置
 
 ```
