@@ -17,4 +17,7 @@
 - 虚拟化&云
   - [k8s常用命令](/ops/cloud/k8s-commands.md)
   - [docker常用命令](/ops/cloud/docker-commands.md)
+  - [dockerfile参数](/ops/cloud/dockerfile.md)
   - [docker容器日志](/ops/cloud/docker-container-log.md)
+  - [docker服务配置](/ops/cloud/docker-settings.md)
+  - [docker故障排除思路](/ops/cloud/docker-troubleshooting.md)
