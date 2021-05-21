@@ -14,5 +14,5 @@
   - [Java](/dev/java/)
   - [前端](/dev/frontend/)
 
-- [工具](/tool/)
+- 工具
   - [vscode](/tool/vscode/)

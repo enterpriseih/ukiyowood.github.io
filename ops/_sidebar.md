@@ -15,3 +15,6 @@
 - 中间件
 
 - 虚拟化&云
+  - [k8s常用命令](/ops/cloud/k8s-commands.md)
+  - [docker常用命令](/ops/cloud/docker-commands.md)
+  - [docker容器日志](/ops/cloud/docker-container-log.md)
