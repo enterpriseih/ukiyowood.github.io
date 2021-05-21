@@ -1,12 +1,18 @@
 - [首页](/)
 
-- 运维笔记
+- 运维
   - [Linux](/ops/linux/)
   - [数据库](/ops/db/)
   - [中间件](/ops/middleware/)
   - [网络](/ops/network/)
   - [虚拟化&云](/ops/cloud/)
 
-- [开发笔记](/dev/)
+- 开发
+  - [Git](/dev/git/)
+  - [Python](/dev/python/)
+  - [Golang](/dev/golang/)
+  - [Java](/dev/java/)
+  - [前端](/dev/frontend/)
 
 - [工具](/tool/)
+  - [vscode](/tool/vscode/)

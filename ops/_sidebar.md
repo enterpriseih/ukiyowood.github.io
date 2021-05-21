@@ -1,12 +1,17 @@
-- [Linux](/ops/linux/)
+- Linux
   - [linux常用命令](/ops/linux/linux-commands.md)
   - [centos7下安装ftp服务](/ops/linux/linux-install-vsftpd.md)
 
-- [网络协议](/ops/network/)
+- 网络协议
   - [http响应码](/ops/network/http-code.md)
 
-- [数据库](/ops/db/)
-  - [Oracle](/ops/db/oracle/)
-    - [Oracle常用命令](oracle-commands.md)
+- 数据库
+  - Oracle
+    - [Oracle常用命令](/ops/db/oracle/oracle-commands.md)
+    - [Oracle重置在用用户](/ops/db/oracle/oracle-reset-user.md)
 
-  - [mysql](/ops/db/mysql)
+  - mysql
+
+- 中间件
+
+- 虚拟化&云
