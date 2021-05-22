@@ -6,7 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+  <!-- Theme: Simple (latest v0.x.x) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+
 </head>
 <body>
   <!-- <nav>
@@ -31,6 +34,10 @@
       loadNavbar: true,
       // logo: '/fujian/logo.svg',
       // coverpage: true,
+      themeable: {
+          readyTransition : true, // default
+          responsiveTables: true  // default
+      },
       search: {
         paths: [],
         depth: 2,
@@ -63,6 +70,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <!-- docsify-themeable (latest v0.x.x) -->
+<script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
   <script>
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
