@@ -20,6 +20,16 @@ writable = yes
 write list = @root
 ```
 
+```
+[data]
+comment = Data share Directories
+path = /data/share
+browseable = yes
+read only = yes
+#writable = yes
+#write list = @root
+```
+
 ## 4. 重启服务
 ```
 systemctl restart smb
