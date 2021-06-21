@@ -1,6 +1,7 @@
 - Linux
   - [linux常用命令](/ops/linux/linux-commands.md)
   - [centos7下安装ftp服务](/ops/linux/linux-install-vsftpd.md)
+  - [centos7下安装SMB服务](/ops/linux/linux-install-smb.md)
 
 - 网络协议
   - [http响应码](/ops/network/http-code.md)
