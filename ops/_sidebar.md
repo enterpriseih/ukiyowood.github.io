@@ -4,10 +4,10 @@
   - [centos7下安装SMB服务](/ops/linux/linux-install-smb.md)
 
 - Windows
-  - [使用命令关闭笔记本自带的键盘](/opt/windows/使用命令关闭笔记本自带的键盘.md)
-  - [powershell禁止脚本运行](/opt/windows/powershell禁止脚本运行.md)
-  - [win10下UWP应用设置代理](/opt/windows/win10下UWP应用设置代理.md)
-  - [windows下常用命令](/opt/windows/windows下常用命令.md)
+  - [使用命令关闭笔记本自带的键盘](/ops/windows/使用命令关闭笔记本自带的键盘.md)
+  - [powershell禁止脚本运行](/ops/windows/powershell禁止脚本运行.md)
+  - [win10下UWP应用设置代理](/ops/windows/win10下UWP应用设置代理.md)
+  - [windows下常用命令](/ops/windows/windows下常用命令.md)
 
 - 网络协议
   - [http响应码](/ops/network/http-code.md)

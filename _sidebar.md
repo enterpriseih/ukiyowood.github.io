@@ -2,7 +2,7 @@
 
 - 运维
   - [Linux](/ops/linux/)
-  - [Windows](/opt/windows/)
+  - [Windows](/ops/windows/)
   - [数据库](/ops/db/)
   - [中间件](/ops/middleware/)
   - [网络](/ops/network/)
