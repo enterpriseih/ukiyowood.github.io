@@ -21,6 +21,17 @@
     - [mysql常用配置](/ops/db/mysql/mysql常用配置.md)
 
 - 中间件
+  - nginx
+    - [nginx高可用部署](/ops/middleware/nginx/nginx高可用部署.md)
+    - [nginx学习总结](/ops/middleware/nginx/nginx学习总结.md)
+    - [nginx在NCC应用中解析](/ops/middleware/nginx/nginx在NCC应用中解析.md)
+    - [nginx重协商问题](/ops/middleware/nginx/nginx重协商问题.md)
+
+  - MQ
+    - [rabbitmq修改用户密码](/ops/middleware/mq/rabbitmq修改用户密码.md)
+
+  - redis
+    - [常用操作命令](/ops/middleware/redis/常用操作命令.md)
 
 - 虚拟化&云
   - [k8s常用命令](/ops/cloud/k8s-commands.md)
