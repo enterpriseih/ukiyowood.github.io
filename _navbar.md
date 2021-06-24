@@ -2,10 +2,12 @@
 
 - 运维
   - [Linux](/ops/linux/)
+  - [Windows](/opt/windows/)
   - [数据库](/ops/db/)
   - [中间件](/ops/middleware/)
   - [网络](/ops/network/)
   - [虚拟化&云](/ops/cloud/)
+
 
 - 开发
   - [Git](/dev/git/)
