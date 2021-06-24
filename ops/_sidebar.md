@@ -18,6 +18,7 @@
     - [Oracle重置在用用户](/ops/db/oracle/oracle-reset-user.md)
 
   - mysql
+    - [mysql常用配置](/ops/db/mysql/mysql常用配置.md)
 
 - 中间件
 
