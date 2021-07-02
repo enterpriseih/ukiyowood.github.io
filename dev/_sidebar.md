@@ -8,4 +8,6 @@
 - Java
 
 - Python
+    - [centos7下编译安装python3.9](/dev/python/centos7下编译安装python3.9.md)
+    - [pip国内源配置](/dev/python/pip国内源配置.md)
 - 前端
