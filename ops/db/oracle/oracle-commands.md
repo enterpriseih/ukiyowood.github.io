@@ -116,3 +116,21 @@ srvctl status scan    # 查看scanip状态
 srvctl status vip -n rac208    # 查看节点vip的状态
 srvctl status listener    # 查看监听器的状态
 ```
+
+## `troubleshooting`
+```sql
+# 通过pid查询对应进程的sql语句
+SELECT sql_text,
+       sql_fulltext,
+       FIRST_LOAD_TIME,
+       LAST_LOAD_TIME
+  FROM v$sql
+ WHERE sql_id = (SELECT sql_id
+                   FROM v$session
+                  WHERE paddr = (SELECT addr
+                                   FROM v$process
+                                  WHERE spid = 23322))
+
+# 数据泵任务状态
+select job_name,state,owner_name from dba_datapump_jobs where OWNER_NAME='NCC_2005_0523';
+```
